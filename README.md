@@ -1,2 +1,2 @@
 # WhatsApp-colne
-Clone WhatsApp using Flutter &amp; Soket 
+Clone WhatsApp using Flutter &amp; Socket 
